@@ -32,7 +32,6 @@
 #define BOTTOM_MID "╩"
 
 // enumerations
-typedef enum {unmarked = 0, X = 1, O = 2} Mark;
 typedef enum {undefined = 0, user = 1, computer = 2} Player;
 typedef enum {false = 0, true = 1} Boolean;
 
