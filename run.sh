@@ -1,0 +1,1 @@
+gcc main.c -o /tmp/tmp.o && /tmp/tmp.o
